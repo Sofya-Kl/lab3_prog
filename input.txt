@@ -1,0 +1,5 @@
+john:H5ned8EV1vank:101:101::\\google*.ru\test\myprog:/usr/bin/csh
+hell:qrt8Uihf:1:Y:PROG:\\test.org\test\myprog:/git/lb/bin
+root:lZTB0KTrSKy8M:0:0:root:/home/qwert/sandbox/:/bin/sh
+daemon:x:1:1:daemon:\\my.net\home:/usr/sbin
+bill:7qeFjndagetZk:102:102::\\450.122.12.1\home:/bin/sh

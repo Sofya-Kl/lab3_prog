@@ -1,0 +1,5 @@
+Used uncorrect symbols.
+good UNC path.
+not UNC path.
+bad UNC path: wrong domain 'net'
+bad UNC path: wrong IP: 450.122.12.1: 450 > 255
